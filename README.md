@@ -30,13 +30,7 @@ This dashboard visualizes key metrics like total orders, delivery fees, and user
 
 ## Project Structure
 
-food-delivery-project/
-│
-├── data/
-├── python_code.ipynb
-├── sql_queries.sql
-├── dashboard.pbix
-└── README.md
+dataset-->python_code.ipynb-->sql_queries.sql-->dashboard.pbix
 
 ## Conclusion
 
